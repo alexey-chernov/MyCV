@@ -102,9 +102,9 @@ body {
 }
 
 .about-me-developer {
-  margin-top: 108px;
-  color: #000000;
-  font-size: 14px;
+  margin-top: 50px;
+  color: #ff6b08;
+  font-size: 22px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 23px;
@@ -112,7 +112,7 @@ body {
 
 .about-me-name {
   margin-top: 24px;
-  color: #000000;
+  color: #8a8080;
   font-size: 45px;
   font-weight: 700;
 }
@@ -137,8 +137,15 @@ body {
 }
 
 .projects-link {
-  color: #000000;
-  font-size: 14px;
+  color: #ff6b08;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;  
+}
+
+.projects-link-about {
+  color: #353006;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;  
 }
