@@ -48,7 +48,7 @@ body {
 }
 
 .contacts-link {
-  color: #ffffff;
+  color: #929292;
   font-size: 14px;
   font-weight: 400;
 }
@@ -78,7 +78,7 @@ body {
 
 .tech-skills-item {
   margin-left: 20px;
-  color: #ffffff;
+  color: #929292;
 }
 
 .soft-skills-title {
@@ -98,7 +98,7 @@ body {
 
 .soft-skills-item {
   margin-left: 20px;
-  color: #ffffff;
+  color: #929292;
 }
 
 .about-me-developer {
@@ -178,7 +178,7 @@ body {
 }
 
 .dots {
-  color #bebebe
+  color: #bebebe;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -212,7 +212,7 @@ body {
 }
 
 .work-period {
-  color: #0000000;
+  color: #000000;
   height: 10px;   
   font-size: 12px; 
 }
@@ -257,7 +257,7 @@ body {
 }
 
 .periodeducation {
-  color: #0000000;
+  color: #000000;
   height: 10px;   
   font-size: 12px; 
 }
